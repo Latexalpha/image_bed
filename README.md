@@ -2,4 +2,13 @@
 
 ## Description
 
-The pictures uploaded to the Gitee has been hiden because of the authority's censorship policy. And the broken links need to be replaced, which is a remaining work.
+- The pictures uploaded to the Gitee has been hiden because of the authority's censorship policy. 
+- The broken links have been replaced.
+
+```text
+https://raw.githubusercontent.com/Heihiha/image_bed/main/img_gitee
+
+https://gitee.com/heihiha/image_bed/raw/master/img
+
+#用上面的链接替代下面的链接
+```
