@@ -8,7 +8,7 @@
 ```text
 https://raw.githubusercontent.com/Heihiha/image_bed/main/img_gitee
 
-https://gitee.com/heihiha/image_bed/raw/master/img
+https://gitee.com/latexalpha/image_bed/raw/master/img
 
 #用上面的链接替代下面的链接
 ```
